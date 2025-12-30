@@ -1,0 +1,11 @@
+# local package
+-e .
+
+# external requirements
+boto3
+pandas
+numpy
+scikit-learn
+nltk
+joblib
+flask
