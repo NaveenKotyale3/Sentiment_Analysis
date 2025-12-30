@@ -31,8 +31,8 @@ warnings.filterwarnings("ignore")
 
 # Below code block is for local use
 # -------------------------------------------------------------------------------------
-mlflow.set_tracking_uri('https://dagshub.com/vikashdas770/YT-Capstone-Project.mlflow')
-dagshub.init(repo_owner='vikashdas770', repo_name='YT-Capstone-Project', mlflow=True)
+mlflow.set_tracking_uri('https://dagshub.com/NaveenKotyale3/Sentiment_Analysis.mlflow')
+dagshub.init(repo_owner='NaveenKotyale3', repo_name='Sentiment_Analysis', mlflow=True)
 # -------------------------------------------------------------------------------------
 
 
