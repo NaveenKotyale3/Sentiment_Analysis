@@ -9,3 +9,4 @@ scikit-learn
 nltk
 joblib
 flask
+dvc
