@@ -11,3 +11,4 @@ joblib
 flask
 dvc
 mlflow
+dagshub
