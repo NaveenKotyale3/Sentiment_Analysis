@@ -10,3 +10,4 @@ nltk
 joblib
 flask
 dvc
+mlflow
